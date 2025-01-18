@@ -12,4 +12,4 @@ I am a second-year graduate student at [Southeast University](https://www.seu.ed
 
 You can find my CV here: [Huang Xin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:huangxin@seu.edu.cn) / [Github](https://github.com/laplace522) / [Wechat](../images/WeChat.png)
+[Email (huangxin@seu.edu.cn)](mailto:huangxin@seu.edu.cn) / [Github](https://github.com/laplace522) / [Wechat](../images/WeChat.png)
